@@ -3,7 +3,7 @@
 
 ## Styling
 
-The content of [custom.css](./custom.css) can be pasted into the *Custom CSS*.
+The content of [custom.css](./custom.css) can be pasted into the *Custom CSS* field of the page you find following *Settings/Administration/Server Settings/Appearance*.
 
 This style fills in a prettier way the bottom part of the left column.
 
