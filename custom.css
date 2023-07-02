@@ -8,7 +8,7 @@
 /* better responsive UI on medium to wide screens*/
 @media (min-width: 1000px) {
     .layout-multiple-columns .column {
-        flex: 0 1 450px;
+        flex: 0 1 600px;
     }
     .layout-multiple-columns .columns-area {
         justify-content: center;
